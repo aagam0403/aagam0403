@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aagam Sanghvi</h1>
 <h3 align="center">I'm currently working on MSc in Information Technology</h3>
-<img height="300" width="1000" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
+<img height="300" width="100%" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aagam0403&label=Profile%20views&color=0e75b6&style=flat" alt="aagam0403" /> </p>
 
