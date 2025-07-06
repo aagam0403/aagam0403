@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning C++, Linux Shell Script, etc<br><br>👨‍💻 All of my projects are available at [GitHub Profile] <br><br>💬 Ask me about C, C++, MySQL, etc<br><br>📫 How to reach me aagamsanghvi0403@gmail.com
+🌱 I’m currently learning Python, PHP, etc<br><br>👨‍💻 All of my projects are available at [GitHub Profile] <br><br>💬 Ask me about C, C++, MySQL, etc<br><br>📫 How to reach me aagamsanghvi0403@gmail.com
 
 
 ## 🌐 Socials:
